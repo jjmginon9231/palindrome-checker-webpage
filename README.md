@@ -10,7 +10,7 @@ This is a Palindrome Checker Webpage, inspired by my first certification project
 - Features
 - Technologies Used
 - Acknowledgements
-- Author
+- Contact
 
 ## Overview
 
@@ -33,3 +33,9 @@ A palindrome is a word, phrase, number, or other sequence of characters that rea
 
 - [**freeCodeCamp**](https://www.freecodecamp.org/): For the certification project.
 - [**CodingNepal**](https://www.codingnepalweb.com/): For the layout inspiration.
+
+## Contact
+
+Feel free to reach out for collaborations or work opportunities.
+
+[LinkedIn](https://www.linkedin.com/in/john-jerry-ginon-0b5539314/) | [GitHub](https://github.com/jjmginon9231/) | [Upwork](https://www.upwork.com/freelancers/~01432eb5f90e315e15?mp_source=share)
