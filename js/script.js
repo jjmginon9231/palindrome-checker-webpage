@@ -2,6 +2,8 @@ const textInput = document.getElementById("text-input"),
     checkBtn = document.getElementById("check-btn"),
     result = document.getElementById("result");
 
+textInput.addEventListener("keydown", (e => { "Enter" === e.key && checkBtn.click() }))
+
 checkBtn.addEventListener("click", (() => {
     const lowerCasedReplaced = textInput.value.toLowerCase().replace(/[^a-z0-9]/g, "");
     result.style.display = "block", "" === textInput.value
